@@ -44,11 +44,6 @@ function removeElement() {
   document.getElementById('to-be-removed').remove();
 }
 
-changeHeadingText();
-changeBoxColor();
-addNewItem();
-highlightParagraph();
-removeElement();
 // Do not edit the lines below.
 // These lines are for testing purposes.
 if (typeof module !== 'undefined' && module.exports) {
